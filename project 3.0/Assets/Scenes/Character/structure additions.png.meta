@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 69
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -95,7 +95,1876 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: structure additions_0
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701f81281959571418fca020176ff2c5
+      internalID: -730470250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a1254012957444090e6b0912b272f0
+      internalID: 967440932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cfa95eeb875c14a89ea1c46c8e09e2
+      internalID: 1723432261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee35ef691469e4ca87538eda28488e
+      internalID: 1420173895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079f6d97b95638243b1a1ba2d86157b0
+      internalID: -1459490335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5bd784c76aedf46a075684e60d2d29
+      internalID: 1294443063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f8f3c8ca809b4380f91ebf288457f
+      internalID: -944997436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_7
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11709668a2fe184bb25ffc8f304f235
+      internalID: -1214909002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_8
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ab919850a44e949a30fe9de52a5177
+      internalID: 1659396532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 418
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6af60948b3177d4baf297bab3fc2a5c
+      internalID: 2026077051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faace70622b30449a80214dad0f9051
+      internalID: -2030570844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5eebb2825d4874dafc432efa760b16
+      internalID: 1873947518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6ad85d0bcb8554eb061fbbd813ae94
+      internalID: -672341844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a4325ec304c54b83a303f9f92fe9f
+      internalID: 846448975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac56323bb4c80744d9f0041b0f549549
+      internalID: -947261256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496abc5b962b5264e8c6145c3f31a8f3
+      internalID: -50632408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_16
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c640e00924b924eaab521682f6df53
+      internalID: -1610068910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_17
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefdce7456c95e546afb759067ece352
+      internalID: -1770848143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_18
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a774ebf7fceb545a5993612b339187
+      internalID: 18432071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a713542b0302684f839e5ac8050ea8e
+      internalID: 844631424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_20
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 349
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b4434988c40c4b818cdffc10e3269
+      internalID: -358299638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7552344f1c3cdcb4a8c112afd5304d6c
+      internalID: 230357717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246cfc875adb8534395f1e74568815c6
+      internalID: -14580731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e25315e8e69ba4d8e9ff176c5f5aac
+      internalID: -949358683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_24
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0bcb420be21e64b98f71e7c6c5304e
+      internalID: -1808193860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68af6fba073187e4886298dd58bfb30b
+      internalID: -365068589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db62c494a6ed9834abaf89a3c84ae217
+      internalID: 1787852805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_27
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327574a70c32e844bb274856c4d57514
+      internalID: 2059074860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_28
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b65579cedb6421429aa08dc7fb513c3
+      internalID: -36445093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e8b8b9ef515024db08ca9616f04c04
+      internalID: -895511622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_30
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a41067b0093f448a6b327ffe8d2079
+      internalID: -5672192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_31
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c29e695734e7a46a7ccf149919b4a3
+      internalID: -1871073716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_32
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf73356dabfd045b4c088b52945db2
+      internalID: -1038890312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_33
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 280
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93c8e3470b988c408410ee0abe5533c
+      internalID: 2017533838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80fee73b016cb4595e570061f48637
+      internalID: 2015639083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e4cdc7aae64f46941280e74a8b296
+      internalID: -140891818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d9e594b4e3ef4a95a7de4048a63f0
+      internalID: -1552333170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_37
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b813c0bcde96fef43b464f9de28272b8
+      internalID: 1904876827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_38
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5ac1fedcb332542953e479356ac350
+      internalID: 944255570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97f21638e30a9048b37f2cc376cbc44
+      internalID: 1329436882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_40
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91de46913035ef14abaf3c73606102d3
+      internalID: 2112867874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_41
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f411f0f1532144e807c7d2862dba69
+      internalID: -339614538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_42
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e9abb448bacce4e9037d50f2f260b7
+      internalID: 967261232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccbc4d5200ab614aa2c0d4e46add397
+      internalID: -1079278958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_44
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b531993770714ea3d07a896dbca00
+      internalID: 1838448866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_45
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d39e3b61a5ebb4f9809ee0dbbdcb38
+      internalID: 2115321653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_46
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36b0a519b9c44b478a2c7a2bed6a746
+      internalID: -1335000081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_47
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 211
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2617ce9b0b836d3418d59bc9732db7cb
+      internalID: 1900981456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728927937179bb24f83ec8731ee310be
+      internalID: -1268097226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f6f9da2157574d9a005d33cfde902
+      internalID: -571299603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a25367524f6de54eada536e5dc22a27
+      internalID: -540487526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a87e42c13121649ae903e9244ad760
+      internalID: 1162652752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dfc4f8049becd4f9c0068ad09bafd6
+      internalID: -1378053369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_53
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b235c829048b4ea1e469b9949161b
+      internalID: 1319287459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_54
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e437336a3b9c484b912a3c9fa375b70
+      internalID: 688291831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_55
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88961d101ffe1cf4087eef4f65fd6136
+      internalID: -1186144425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_56
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db94268cb3615c4fbf0659aacb00701
+      internalID: -398829109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_57
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad72ef6fa2cdf7c4ea6ebd81e46c8cbd
+      internalID: -1531625040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_58
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f1067f477ffa048bc43a45b7f71522
+      internalID: 110610487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_59
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37f9402c45da94589cf1b5cfea8026
+      internalID: 1953579752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_60
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de203fe0666efe44869acefcd427927
+      internalID: -2047922349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_61
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 142
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314d9765387acf14fb0a17a6f220816e
+      internalID: 1047517616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a186c8c2b4e8fb7449a5cc8dc9b3feb1
+      internalID: 69394433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c757802e87c5e4dbf670cdc6a5a6fa
+      internalID: 418714981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d557aaaaa1cc5949b5e0fd274c7f2da
+      internalID: 2086397321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8999a87d23ad2934fac3ed5e4780fde5
+      internalID: -569128899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_66
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e8d42b67470043ae0a66b303572f6
+      internalID: -984972560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_67
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8bf3cf3f432d34cbcbd42733a2924a
+      internalID: 1480551179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_68
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3641c7cc028df240aee779e80b6463e
+      internalID: 1270156166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_69
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7402ebb653ba64c8ca4cd703f2c553
+      internalID: 671014433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_70
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7782ee820f26f1345a6f480ccf2a3dad
+      internalID: -531071826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_71
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923369ca1dbc7e44b955701196b1ddea
+      internalID: -1338366262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_72
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b19115f3247e7347abc114b21bd1207
+      internalID: -1700213121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_73
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09a616d3e16676439b18deacd1f6701
+      internalID: 432493311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_74
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b9ac0fcd0fbe842947ef146f3228a2
+      internalID: -1608494758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_75
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fdf4da2f3f6694ebe4e4421de69861
+      internalID: 441811233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_76
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a773e57170147c84d8fe26e06ee79bdb
+      internalID: 1037374826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_77
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0694cfae26a09624d8590e334b3751b1
+      internalID: 1793226527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3873f2d7d147d73419264cc15f9f5baa
+      internalID: -1346277518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_79
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede62fcb35f2af40975d7c332801206
+      internalID: 347101425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_80
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831c62dfbb5409a43b6a34ca04d18eb7
+      internalID: 1498030308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_81
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fadfb2c6e2b4d24ea74eec8676d46e1
+      internalID: 1115426514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_82
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40464483c105b3945a9a1f34919f122a
+      internalID: 244635728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_83
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3310d76e9beb54cbbdb8d61bcc0fb7
+      internalID: -1283598755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_84
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdba2ad12ea2194fbef06ddba6f1ff5
+      internalID: -444189318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_85
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09107a3db59b9384c9f9c2d4fccb6fce
+      internalID: -2004516808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_86
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d282865113144c8ff106f4c8cb728
+      internalID: -1065945324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_87
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f488fd77dc99d342b43e8c1630f5c32
+      internalID: -1425612496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: structure additions_88
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 4
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1671903f7fc2b9749befdd56de530254
+      internalID: 657764098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +1975,96 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      structure additions_0: -730470250
+      structure additions_1: 967440932
+      structure additions_10: -2030570844
+      structure additions_11: 1873947518
+      structure additions_12: -672341844
+      structure additions_13: 846448975
+      structure additions_14: -947261256
+      structure additions_15: -50632408
+      structure additions_16: -1610068910
+      structure additions_17: -1770848143
+      structure additions_18: 18432071
+      structure additions_19: 844631424
+      structure additions_2: 1723432261
+      structure additions_20: -358299638
+      structure additions_21: 230357717
+      structure additions_22: -14580731
+      structure additions_23: -949358683
+      structure additions_24: -1808193860
+      structure additions_25: -365068589
+      structure additions_26: 1787852805
+      structure additions_27: 2059074860
+      structure additions_28: -36445093
+      structure additions_29: -895511622
+      structure additions_3: 1420173895
+      structure additions_30: -5672192
+      structure additions_31: -1871073716
+      structure additions_32: -1038890312
+      structure additions_33: 2017533838
+      structure additions_34: 2015639083
+      structure additions_35: -140891818
+      structure additions_36: -1552333170
+      structure additions_37: 1904876827
+      structure additions_38: 944255570
+      structure additions_39: 1329436882
+      structure additions_4: -1459490335
+      structure additions_40: 2112867874
+      structure additions_41: -339614538
+      structure additions_42: 967261232
+      structure additions_43: -1079278958
+      structure additions_44: 1838448866
+      structure additions_45: 2115321653
+      structure additions_46: -1335000081
+      structure additions_47: 1900981456
+      structure additions_48: -1268097226
+      structure additions_49: -571299603
+      structure additions_5: 1294443063
+      structure additions_50: -540487526
+      structure additions_51: 1162652752
+      structure additions_52: -1378053369
+      structure additions_53: 1319287459
+      structure additions_54: 688291831
+      structure additions_55: -1186144425
+      structure additions_56: -398829109
+      structure additions_57: -1531625040
+      structure additions_58: 110610487
+      structure additions_59: 1953579752
+      structure additions_6: -944997436
+      structure additions_60: -2047922349
+      structure additions_61: 1047517616
+      structure additions_62: 69394433
+      structure additions_63: 418714981
+      structure additions_64: 2086397321
+      structure additions_65: -569128899
+      structure additions_66: -984972560
+      structure additions_67: 1480551179
+      structure additions_68: 1270156166
+      structure additions_69: 671014433
+      structure additions_7: -1214909002
+      structure additions_70: -531071826
+      structure additions_71: -1338366262
+      structure additions_72: -1700213121
+      structure additions_73: 432493311
+      structure additions_74: -1608494758
+      structure additions_75: 441811233
+      structure additions_76: 1037374826
+      structure additions_77: 1793226527
+      structure additions_78: -1346277518
+      structure additions_79: 347101425
+      structure additions_8: 1659396532
+      structure additions_80: 1498030308
+      structure additions_81: 1115426514
+      structure additions_82: 244635728
+      structure additions_83: -1283598755
+      structure additions_84: -444189318
+      structure additions_85: -2004516808
+      structure additions_86: -1065945324
+      structure additions_87: -1425612496
+      structure additions_88: 657764098
+      structure additions_9: 2026077051
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
